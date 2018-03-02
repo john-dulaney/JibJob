@@ -10,7 +10,6 @@ namespace JibJob.Models
         [Required]
         public string Name { get; set; }
 
-        [Required]
         public string JobList { get; set; }
 
         [Required]
